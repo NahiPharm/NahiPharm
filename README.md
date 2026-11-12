@@ -223,13 +223,13 @@ Presented at ICNDHI 2026, this poster explored a proposed natural product-based 
 
 **Research Poster**
 
-<img src="./assets/achievements/icndhi-2026/SHUVA_IMG-379.jpg" width="90%" alt="ICNDHI 2026 research poster"/>
+<img src="./assets/achievements/icndhi2026/SHUVA_IMG-379.jpg" width="90%" alt="ICNDHI 2026 research poster"/>
 
 <br/>
 
 **Award Recognition**
 
-<img src="./assets/achievements/icndhi-2026/SHUVA_IMG-527.jpg" width="90%" alt="ICNDHI 2026 award presentation"/>
+<img src="./assets/achievements/icndhi2026/SHUVA_IMG-527.jpg" width="90%" alt="ICNDHI 2026 award presentation"/>
 
 </div>
 
@@ -237,7 +237,7 @@ Presented at ICNDHI 2026, this poster explored a proposed natural product-based 
 
 <div align="center">
 
-<a href="./assets/achievements/icndhi-2026/ICNDHI2026_Poster_A0%20(1).pdf">
+<a href="./assets/achievements/icndhi2026/ICNDHI2026_Poster_A0%20(1).pdf">
 <img src="https://img.shields.io/badge/VIEW-Research_Poster_PDF-62D6C5?style=for-the-badge&labelColor=101827" alt="View research poster PDF"/>
 </a>
 
