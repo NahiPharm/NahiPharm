@@ -177,8 +177,83 @@ International Islamic University Chittagong (IIUC)
 Chittagong, Bangladesh
 
 ---
+---
 
-## `07` — Connect & Collaborate
+## `07` — Conference & Research Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ICNDHI-2026-182438?style=for-the-badge&labelColor=101827" />
+<img src="https://img.shields.io/badge/POSTER_PRESENTATION-62D6C5?style=for-the-badge&labelColor=101827" />
+<img src="https://img.shields.io/badge/AWARD_RECIPIENT-8CB9FF?style=for-the-badge&labelColor=101827" />
+
+# ICNDHI 2026
+
+**Poster Presentation & Award Recognition**
+
+*International Conference on Natural Products, Drug Discovery and Herbal Innovation*
+
+</div>
+
+### Featured Research Poster
+
+**Natural Product-Based Formulation Development for Trans Resveratrol: A Proposed Ellagic Acid BSA Supramolecular Framework and Ginger-Derived Nanovesicle System**
+
+Presented at ICNDHI 2026, this poster explored a proposed natural product-based formulation strategy for trans-resveratrol involving an ellagic acid–BSA supramolecular framework and a ginger-derived nanovesicle system.
+
+<details>
+<summary><strong>Research concept and formulation overview</strong></summary>
+
+- **Active compound:** Trans-resveratrol
+- **Proposed framework:** Ellagic acid–BSA supramolecular framework
+- **Natural vesicle component:** Ginger-derived nanovesicle system
+- **Research direction:** Exploring a potential natural product-based formulation and delivery strategy.
+
+*This work presents a proposed formulation concept. Its experimental validation and performance should not be inferred from the poster presentation alone.*
+
+</details>
+
+### Conference Recognition
+
+> Received an award for poster presentation at ICNDHI 2026.
+
+### Poster & Presentation Gallery
+
+<div align="center">
+
+**Research Poster**
+
+<img src="./assets/achievements/icndhi-2026/SHUVA_IMG-379.jpg" width="90%" alt="ICNDHI 2026 research poster"/>
+
+<br/>
+
+**Award Recognition**
+
+<img src="./assets/achievements/icndhi-2026/SHUVA_IMG-527.jpg" width="90%" alt="ICNDHI 2026 award presentation"/>
+
+</div>
+
+### Research Poster Document
+
+<div align="center">
+
+<a href="./assets/achievements/icndhi-2026/ICNDHI2026_Poster_A0%20(1).pdf">
+<img src="https://img.shields.io/badge/VIEW-Research_Poster_PDF-62D6C5?style=for-the-badge&labelColor=101827" alt="View research poster PDF"/>
+</a>
+
+</div>
+
+| Conference detail | Information |
+|---|---|
+| Conference | ICNDHI 2026 |
+| Institution | International Islamic University Chittagong (IIUC) |
+| Location | Chittagong, Bangladesh |
+| Contribution | Poster Presentation |
+| Recognition | Award Recipient |
+
+---
+
+## `08` — Connect & Collaborate
 
 I welcome opportunities for scientific discussion, interdisciplinary collaboration, and learning from the global research community.
 
