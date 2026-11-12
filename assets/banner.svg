@@ -1,0 +1,57 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101827"/>
+      <stop offset="55%" stop-color="#182438"/>
+      <stop offset="100%" stop-color="#243B55"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#62D6C5"/>
+      <stop offset="100%" stop-color="#8CB9FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+
+  <g fill="none" stroke="#62D6C5" opacity=".22" stroke-width="2">
+    <circle cx="970" cy="145" r="85"/>
+    <circle cx="970" cy="145" r="115"/>
+    <path d="M870 65 L970 145 L1080 75 M970 145 L1085 225 M970 145 L855 230"/>
+    <path d="M870 65 L855 230 L1085 225 L1080 75 Z"/>
+  </g>
+
+  <g fill="#8CB9FF" opacity=".8">
+    <circle cx="870" cy="65" r="6"/>
+    <circle cx="1080" cy="75" r="6"/>
+    <circle cx="855" cy="230" r="6"/>
+    <circle cx="1085" cy="225" r="6"/>
+    <circle cx="970" cy="145" r="9"/>
+  </g>
+
+  <path d="M65 225 H410" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="65" y="108" fill="#F0F5FA"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="43" font-weight="bold" letter-spacing="1">
+    IRFAT UL AZMAN NAHIAN
+  </text>
+
+  <text x="67" y="155" fill="#62D6C5"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="21" letter-spacing="2">
+    PHARMACEUTICAL &amp; BIOMEDICAL SCIENCES
+  </text>
+
+  <text x="67" y="195" fill="#B7C5D5"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16">
+    Exploring biological mechanisms and therapeutic innovation
+  </text>
+
+  <text x="67" y="260" fill="#8CB9FF"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="13" letter-spacing="3">
+    EXPLORE  •  QUESTION  •  INVESTIGATE
+  </text>
+</svg>
