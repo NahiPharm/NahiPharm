@@ -1,9 +1,8 @@
  <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:101827,50:182438,100:243B55&text=IRFAT%20UL%20AZMAN%20NAHIAN&fontSize=32&fontColor=F0F5FA&fontAlignY=40&desc=PHARMACEUTICAL%20%26%20BIOMEDICAL%20SCIENCES&descAlignY=60&descSize=14"
-    width="100%"
-    alt="Irfat Ul Azman Nahian — Pharmaceutical and Biomedical Sciences"
-  />
+  <img src="./assets/banner.svg"
+       width="100%"
+       alt="Pharmaceutical and Biomedical Sciences Research Banner"/>
+</div>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=900&color=62D6C5&center=true&vCenter=true&width=700&lines=Exploring+the+Science+of+Therapeutics;Pharmacology+%7C+Natural+Products+%7C+AMR;Biomedical+Science+%7C+Computational+Research;Curiosity+Driven.+Evidence+Based.+Research+Focused." alt="Typing SVG" />
