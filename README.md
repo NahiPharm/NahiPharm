@@ -1,88 +1,90 @@
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:101827,50:182438,100:243B55&text=IRFAT%20UL%20AZMAN%20NAHIAN&fontSize=34&fontColor=F0F5FA&fontAlignY=42&desc=PHARMACEUTICAL%20%26%20BIOMEDICAL%20SCIENCES&descAlignY=63&descSize=14&animation=fadeIn" width="100%" />
 
-# IRFAT UL AZMAN NAHIAN
+<br/>
 
-### Pharmaceutical Sciences · Computational Life Sciences · AI-Driven Drug Discovery
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=900&color=62D6C5&center=true&vCenter=true&width=700&lines=Exploring+the+Science+of+Therapeutics;Pharmacology+%7C+Natural+Products+%7C+AMR;Biomedical+Science+%7C+Computational+Research;Curiosity+Driven.+Evidence+Based.+Research+Focused." alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+AI-Driven+Drug+Discovery;Computational+Biology+%26+Molecular+Design;Interested+in+Evidence-Driven+Biomedical+Research" alt="Research interests animation" />
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Field-Pharmaceutical%20Sciences-1565C0?style=for-the-badge" alt="Pharmaceutical Sciences"/>
-  <img src="https://img.shields.io/badge/Focus-Computational%20Research-00897B?style=for-the-badge" alt="Computational Research"/>
-  <img src="https://img.shields.io/badge/Status-Undergraduate-7E57C2?style=for-the-badge" alt="Undergraduate"/>
-</p>
-
-📍 Chattogram, Bangladesh  
-🎓 B.Pharm Undergraduate · International Islamic University Chittagong
-
-[GitHub Profile](https://github.com/NahiPharm) · [ORCID](https://orcid.org/)
+<a href="https://github.com/NahiPharm">
+  <img src="https://img.shields.io/badge/GitHub-NahiPharm-182438?style=for-the-badge&logo=github&logoColor=F0F5FA"/>
+</a>
+<img src="https://img.shields.io/badge/B.Pharm-Undergraduate-62D6C5?style=for-the-badge&logoColor=101827"/>
+<img src="https://img.shields.io/badge/IIUC-Bangladesh-8CB9FF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍🔬 About Me
+## `01` — About Me
 
-I am a **Bachelor of Pharmacy undergraduate at the International Islamic University Chittagong (IIUC), Bangladesh**, interested in applying computational and data-driven approaches to pharmaceutical and biomedical research.
+I am an undergraduate **Bachelor of Pharmacy (B.Pharm)** student at the **International Islamic University Chittagong (IIUC), Bangladesh**, with a growing interest in understanding biological systems, disease mechanisms, and therapeutic innovation.
 
-My academic interests lie at the intersection of **pharmaceutical sciences, artificial intelligence, computational biology, and molecular discovery**. I am particularly interested in exploring how computational methods can help investigate biological mechanisms, identify potential therapeutic candidates, and generate testable scientific hypotheses.
+My academic interests span pharmaceutical sciences and interdisciplinary biomedical research. I am particularly interested in connecting molecular-level understanding with evidence-based approaches to drug discovery and healthcare innovation.
 
-I am currently developing my computational research skills and building a foundation in reproducible, evidence-driven scientific investigation.
-
-> *My goal is to connect computational predictions with meaningful biological questions through rigorous analysis, transparent methodology, and independent validation.*
+I am currently developing my foundation in computational research, cheminformatics, and scientific data analysis.
 
 ---
 
-## 🧬 Research Interests
+## `02` — Research Interests
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 Computational Drug Discovery
+### <img src="https://img.shields.io/badge/01-62D6C5?style=flat-square" /> Pharmacology & Therapeutics
 
-- Molecular modeling and virtual screening
-- Structure-based drug design
-- Cheminformatics and molecular property analysis
+Drug action, molecular mechanisms, pharmacodynamics, and therapeutic development.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI for Drug Design
+### <img src="https://img.shields.io/badge/02-8CB9FF?style=flat-square" /> Phytochemistry & Natural Products
 
-- Machine learning for molecular discovery
-- Data-driven therapeutic hypothesis generation
-- Computational approaches to molecular optimization
+Plant-derived bioactive compounds, phytochemical investigation, and natural-product drug discovery.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 Bioinformatics & Molecular Biology
+### <img src="https://img.shields.io/badge/03-C4A7FF?style=flat-square" /> Antimicrobial Resistance
 
-- Biological data analysis
-- DNA/RNA-related research
-- Computational investigation of molecular mechanisms
+AMR mechanisms, bacterial survival strategies, and potential therapeutic approaches.
 
 </td>
 <td width="50%" valign="top">
 
-### 🦠 Antimicrobial Resistance
+### <img src="https://img.shields.io/badge/04-62D6C5?style=flat-square" /> Neuroscience & Neuropharmacology
 
-- Bacterial resistance mechanisms
-- Resistance-associated vulnerabilities
-- Computational analysis of biological datasets
+Neural mechanisms, neuroactive compounds, and pharmacological modulation of the nervous system.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/05-8CB9FF?style=flat-square" /> Molecular & Cellular Biology
+
+DNA/RNA biology, cellular mechanisms, molecular interactions, and protein-related research.
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/06-C4A7FF?style=flat-square" /> Nanomedicine & Drug Delivery
+
+Advanced drug-delivery systems, supramolecular materials, and biomolecular interactions.
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### ⚛️ Nanomedicine & Nanotechnology
+### <img src="https://img.shields.io/badge/07-62D6C5?style=flat-square" /> AI, Computational Biology & Drug Discovery
 
-Interest in computational approaches to nanomedicine, therapeutic delivery systems, and emerging biomedical applications of nanotechnology.
+Cheminformatics, molecular modeling, computational chemistry, and data-driven approaches to therapeutic research.
 
 </td>
 </tr>
@@ -90,91 +92,107 @@ Interest in computational approaches to nanomedicine, therapeutic delivery syste
 
 ---
 
-## 💻 Computational Toolkit
+## `03` — Scientific Toolkit
 
-<div align="center">
+**Programming & Research Environments**
 
-### Programming & Research Environments
+<p>
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-Research_Environment-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-Exploring-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python learning"/>
-<img src="https://img.shields.io/badge/Google%20Colab-Research%20Environment-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+**Computational & Molecular Research**
 
-### Exploring Computational Biology
+<p>
+<img src="https://img.shields.io/badge/RDKit-Exploring-62D6C5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cheminformatics-Learning-8CB9FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Molecular_Modeling-Exploring-C4A7FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scientific_Data_Analysis-Developing-182438?style=flat-square"/>
+</p>
 
-<img src="https://img.shields.io/badge/RDKit-Exploring-3B6EA8?style=for-the-badge" alt="RDKit exploration"/>
-<img src="https://img.shields.io/badge/Cheminformatics-Learning-00897B?style=for-the-badge" alt="Cheminformatics learning"/>
-<img src="https://img.shields.io/badge/Molecular%20Docking-Exploring-7E57C2?style=for-the-badge" alt="Molecular docking exploration"/>
-
-</div>
-
-I am progressively developing skills in Python programming, computational workflows, molecular analysis, and the use of public scientific datasets.
-
-*The badges above represent my current learning and exploration areas, not a claim of advanced proficiency.*
-
----
-
-## 🔬 Research & Projects
-
-I am preparing to develop a computational biomedical research portfolio focused on scientifically meaningful questions, accessible datasets, and reproducible analytical methods.
-
-My future project documentation will aim to include:
-
-- **Research question:** The biological problem being investigated.
-- **Data provenance:** Original sources, access conditions, and relevant limitations.
-- **Methods:** Transparent computational workflows and analytical decisions.
-- **Validation:** Appropriate controls, independent evaluation, and uncertainty assessment.
-- **Reproducibility:** Code, documentation, and instructions for reproducing the analysis.
-
-<div align="center">
-
-**Research repositories will be added as projects are developed and validated.**
-
-</div>
+*These labels reflect my current learning and exploration stages, not professional-level proficiency.*
 
 ---
 
-## 📚 Research Philosophy
+## `04` — Research Philosophy
 
-<div align="center">
-
-| Principle | Commitment |
-|:---:|---|
-| 🔍 | **Scientific Rigor** — Prioritizing evidence over speculation |
-| 🔄 | **Reproducibility** — Documenting methods and analytical decisions |
-| 🧪 | **Validation** — Distinguishing computational predictions from experimental evidence |
-| 📊 | **Transparency** — Acknowledging uncertainty, limitations, and data constraints |
-| 🌱 | **Continuous Learning** — Building skills through critical inquiry and practice |
-
-</div>
-
-I believe meaningful scientific progress requires more than computational results alone. Strong research depends on well-defined questions, reliable data, critical interpretation, and appropriate validation.
+<table>
+<tr>
+<td align="center" width="25%">
+<br/>
+<strong>MECHANISM</strong>
+<br/><br/>
+<sub>Understanding how biological systems work.</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<strong>EVIDENCE</strong>
+<br/><br/>
+<sub>Building conclusions on reproducible scientific evidence.</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<strong>INNOVATION</strong>
+<br/><br/>
+<sub>Exploring interdisciplinary solutions to biomedical challenges.</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<strong>DISCOVERY</strong>
+<br/><br/>
+<sub>Turning scientific questions into testable research ideas.</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Academic Background
+## `05` — Research Portfolio
 
-**Bachelor of Pharmacy (B.Pharm) — Undergraduate**
+This GitHub profile will serve as a growing collection of my academic and research-oriented work.
+
+I aim to document:
+
+- Scientific literature exploration and research questions.
+- Computational experiments and data analysis.
+- Molecular and cheminformatics workflows.
+- Reproducible code and research documentation.
+- Research findings, limitations, and future directions.
+
+**Research repositories will be added as projects develop.**
+
+---
+
+## `06` — Academic Background
+
+**Bachelor of Pharmacy (B.Pharm)**
 
 International Islamic University Chittagong (IIUC)  
-Chattogram, Bangladesh
-
-**Academic interests:** Pharmaceutical sciences, computational drug discovery, molecular biology, and AI-assisted biomedical research.
+Chittagong, Bangladesh
 
 ---
 
-## 🌐 Connect With Me
+## `07` — Connect & Collaborate
+
+I welcome opportunities for scientific discussion, interdisciplinary collaboration, and learning from the global research community.
 
 <div align="center">
 
 <a href="https://github.com/NahiPharm">
-  <img src="https://img.shields.io/badge/GitHub-NahiPharm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://orcid.org/">
-  <img src="https://img.shields.io/badge/ORCID-Researcher%20Identifier-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-182438?style=for-the-badge&logo=github&logoColor=F0F5FA"/>
 </a>
 
-*Open to learning, scientific collaboration, and meaningful research discussions.*
+<!-- Replace the placeholder below with your actual ORCID profile URL -->
+<a href="https://orcid.org/0009-0009-2686-5727?lang=en">
+<img src="https://img.shields.io/badge/ORCID-Academic%20Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
+<!-- Add your actual LinkedIn profile URL when ready -->
 
 </div>
 
@@ -182,8 +200,8 @@ Chattogram, Bangladesh
 
 <div align="center">
 
-### *Learn · Investigate · Validate · Contribute*
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:243B55,100:101827&section=footer&text=EXPLORE%20%E2%80%A2%20QUESTION%20%E2%80%A2%20INVESTIGATE%20%E2%80%A2%20INNOVATE&fontSize=15&fontColor=62D6C5&fontAlignY=55"/>
 
-<sub>Building a foundation for reproducible and impactful computational biomedical research.</sub>
+<sub><i>Driven by curiosity. Guided by evidence. Inspired by discovery.</i></sub>
 
 </div>
